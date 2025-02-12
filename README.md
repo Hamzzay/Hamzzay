@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I specialize in delivering robust, scalable, and user-friendly web and mobile applications. Recognized as a Top Rated Plus freelancer on Upwork, I’ve successfully completed 100+ projects, including 15+ SaaS solutions, 30+ hybrid mobile apps, and 10+ AI-powered applications.<br><br><br>><br>If you're seeking a someone who brings ideas, ensures everything is done the right way, and gets things done fast, let's connect and turn your ideas into reality.
+I specialize in delivering robust, scalable, and user-friendly web and mobile applications. Recognized as a Top Rated Plus freelancer on Upwork, I’ve successfully completed 100+ projects, including 15+ SaaS solutions, 30+ hybrid mobile apps, and 10+ AI-powered applications.<br><br>If you're seeking a someone who brings ideas, ensures everything is done the right way, and gets things done fast, let's connect and turn your ideas into reality.
 
 
 ## 🌐 Socials:
