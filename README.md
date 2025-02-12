@@ -1,7 +1,8 @@
 ## 💫 About Me:
 I specialize in delivering robust, scalable, and user-friendly web and mobile applications. Recognized as a Top Rated Plus freelancer on Upwork, I’ve successfully completed 100+ projects, including 15+ SaaS solutions, 30+ hybrid mobile apps, and 10+ AI-powered applications.<br><br>If you're seeking a someone who brings ideas, ensures everything is done the right way, and gets things done fast, let's connect and turn your ideas into reality.
 
-- **Website** : [Hamza Yaseen](https://hamza-c3a00.web.app/)
+
+- **Portfolio** : [Hamza Yaseen](https://hamza-c3a00.web.app/)
 - **Linkedin** : [Hamza on Linkedin](https://www.linkedin.com/in/hamzzay/)
 - **Schedule Consultation** : [One-on-One Consultation with Hamza](https://calendly.com/hamzzay/experiment1et)
 
