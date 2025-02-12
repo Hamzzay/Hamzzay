@@ -21,10 +21,6 @@ I specialize in delivering robust, scalable, and user-friendly web and mobile ap
 
 𝐓𝐡𝐢𝐫𝐝-𝐏𝐚𝐫𝐭𝐲 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧𝐬: Extensive experience integrating with services such as Stripe, Twilio, Mailchimp, Google Mail Server, and OneSignal, enhancing application functionality and user engagement.
 
-
-
-
-
 <br></br>
 <br></br>
 <br></br>
