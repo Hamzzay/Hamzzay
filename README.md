@@ -7,7 +7,7 @@ I specialize in delivering robust, scalable, and user-friendly web and mobile ap
 - **Schedule Consultation** : [One-on-One Consultation with Hamza](https://calendly.com/hamzzay/experiment1et)
 
 <br>
-### 💻 𝐌𝐲 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐈𝐧𝐜𝐥𝐮𝐝𝐞𝐬:
+## 💻 𝐌𝐲 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐈𝐧𝐜𝐥𝐮𝐝𝐞𝐬:
 
 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Proficient in React.js, React Native, Next.js, Vue.js, and React Native, crafting dynamic and responsive user interfaces.
 
