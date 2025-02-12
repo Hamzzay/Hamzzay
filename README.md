@@ -12,7 +12,7 @@ I specialize in delivering robust, scalable, and user-friendly web and mobile ap
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hamzzay&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzzay&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
